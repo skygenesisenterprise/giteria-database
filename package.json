@@ -1,0 +1,24 @@
+{
+  "name": "giteria-database",
+  "version": "1.0.0",
+  "description": "The Giteria Database Schema Documentation",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skygenesisenterprise/giteria-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skygenesisenterprise/giteria-database/issues"
+  },
+  "homepage": "https://github.com/skygenesisenterprise/giteria-database#readme"
+}
